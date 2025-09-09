@@ -39,6 +39,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FoolishToothpaste/FoolishToothpaste/output/snake.svg" alt="Snake animation" />
+_._     _,-'""`-._
+(,-.`._,'(       |\`-/|
+    `-.-' \ )-`( , o o)
+          `-    \`_`"'-
 
 ###
